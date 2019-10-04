@@ -1,6 +1,7 @@
 # mchef2019mx
 
 Versión Game Boy.
-En desarollo...
+
+En desarrollo...
 
 Creado con GB Studio
